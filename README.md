@@ -1,1 +1,1 @@
-# test-github-action-v1
+# test-github-action
